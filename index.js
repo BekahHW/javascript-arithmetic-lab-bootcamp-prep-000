@@ -23,6 +23,8 @@ function inc(n) {
 function dec(n) {
   return n--
 }
+
+
 divideBy3()
 
 console.log(number)
