@@ -12,8 +12,8 @@ function multiply(a,b){
   return a*b
 }
 
-function divideBy3() {
-  number/= 3
+function divide() {
+  return a/b
 }
 
 divideBy3()
