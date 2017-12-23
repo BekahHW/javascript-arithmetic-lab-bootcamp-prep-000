@@ -16,6 +16,13 @@ function divide() {
   return a/b
 }
 
+function inc(n) {
+  return n++
+}
+
+function dec(n) {
+  return n--
+}
 divideBy3()
 
 console.log(number)
